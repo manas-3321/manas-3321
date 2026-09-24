@@ -56,7 +56,11 @@ I'm less interested in looking like a developer and more interested in actually 
 
 ## 02 / TECH STACK
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,git,github,vscode,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,github&perline=5" />
+
+<br><br>
+
+`HTML` `CSS` `JAVASCRIPT` `C++` `GITHUB`
 
 </div>
 
