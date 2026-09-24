@@ -40,7 +40,7 @@ I'm less interested in looking like a developer and more interested in actually 
 </td>
 <td width="36%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="220">
+<img src="./assets/profile-meme.svg" width="300" alt="Developer meme: fixing one bug creates seven more"/>
 
 <br><br>
 
