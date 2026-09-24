@@ -40,7 +40,7 @@ I'm less interested in looking like a developer and more interested in actually 
 </td>
 <td width="36%" align="center" valign="middle">
 
-<img src="https://media1.tenor.com/images/f6fe8d1d0463f4e51b6367bbecf56a3e/tenor.gif?itemid=12719578" width="300" alt="Kakashi Hatake anime GIF"/>
+<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="300" alt="It's done anime GIF"/>
 
 <br><br>
 
