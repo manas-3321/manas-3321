@@ -1,47 +1,50 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL_HERE" width="100%">
-
-<br>
-
 # MANAS
 
-### `CSE • DATA SCIENCE • DEVELOPER`
+### CSE • DATA SCIENCE • BUILDER
 
-*building things between classes and questionable amounts of caffeine.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:151515,100:000000&height=180&section=header&text=MANAS&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN&descAlignY=62&descSize=16"/>
+
+> **building things between classes and questionable amounts of caffeine.**
 
 </div>
 
 ---
 
-## `ABOUT ME`
+<div align="center">
+
+## 01 / ABOUT
+
+</div>
 
 <table>
 <tr>
-<td width="65%">
+<td width="64%" valign="top">
 
-Hey, I'm **Manas**.
+Hey, I'm **Manas** — a CSE Data Science student who likes turning ideas into working software.
 
-I'm a CSE Data Science student who likes building
-things, experimenting with technology and occasionally
-breaking perfectly functional code.
+Currently deep in:
 
-Currently exploring:
+- **DSA & C++**
+- **Web Development**
+- **AI / Machine Learning**
+- **Software Projects**
 
-- Data Structures & Algorithms
-- Web Development
-- AI / Machine Learning
-- Software Development
+My usual workflow:
 
-My current objective is pretty simple:
+`idea → build → break → debug → understand → repeat`
 
-**learn → build → break → understand → repeat**
+I'm less interested in looking like a developer and more interested in actually becoming one.
 
 </td>
+<td width="36%" align="center" valign="middle">
 
-<td width="35%" align="center">
+<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="220">
 
-<img src="YOUR_ANIME_GIF_OR_IMAGE" width="220">
+<br><br>
+
+`status: ONLINE`
 
 </td>
 </tr>
@@ -49,111 +52,105 @@ My current objective is pretty simple:
 
 ---
 
-## `TECHNOLOGIES`
-
 <div align="center">
 
-### LANGUAGES
+## 02 / TECH STACK
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
-
-### DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,git,github,vscode,figma&perline=7" />
 
 </div>
 
 ---
 
-## `PROJECTS`
+<div align="center">
+
+## 03 / PROJECTS
+
+</div>
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### ParkEase
 
-### 🅿️ ParkEase
+**Smart parking marketplace**
 
-A smart parking marketplace connecting
-parking-space owners with people looking
-for parking.
+Connecting unused private parking spaces with people who need them.
 
-**Stack:** Web • Maps • Backend
-
-</td>
-
-<td width="50%">
-
-### 💊 SnapDose
-
-A medication reminder concept that uses
-prescription image recognition to extract
-medicine information.
-
-**Stack:** React Native • Expo • Vision AI
+`WEB` `MAPS` `BACKEND`
 
 </td>
+<td width="50%" valign="top">
 
+### SnapDose
+
+**Prescription → reminder**
+
+A medication reminder concept using prescription image recognition.
+
+`REACT NATIVE` `EXPO` `VISION AI`
+
+</td>
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### ABtalks
 
-### 🌐 ABtalks
+**Frontend redesign**
 
-A frontend redesign / web development
-project focused on recreating a modern
-content platform experience.
+A modern web redesign / frontend experiment.
 
-</td>
-
-<td width="50%">
-
-### 🧪 Experiments
-
-Small projects, experiments and things
-built while learning.
+`HTML` `CSS` `JAVASCRIPT`
 
 </td>
+<td width="50%" valign="top">
 
+### Experiments
+
+**Random things I build**
+
+Small projects, experiments and college work while learning.
+
+`C++` `JS` `PYTHON`
+
+</td>
 </tr>
 </table>
 
 ---
 
-## `GITHUB STATS`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manas-3321&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="170">
+## 04 / GITHUB
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-3321&hide_border=true&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="170">
-
-</div>
-
----
-
-## `CONTRIBUTIONS`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-3321&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
-
-</div>
-
----
-
-<div align="center">
-
-### `BUILD SOMETHING WORTH REMEMBERING.`
+<img src="https://github-readme-stats.vercel.app/api?username=manas-3321&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-3321&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
 
 <br>
 
-[ GITHUB ](https://github.com/manas-3321)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-3321&bg_color=00000000&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### CURRENT MISSION
+
+**learn hard. build harder.**
+
+<br>
+
+`NO HYPE • JUST CODE`
+
+<br><br>
+
+<a href="https://github.com/manas-3321">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
