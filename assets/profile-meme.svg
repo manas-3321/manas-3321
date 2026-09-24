@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360" viewBox="0 0 520 360">
+<rect width="520" height="360" rx="18" fill="#0d1117"/>
+<rect x="22" y="22" width="476" height="316" rx="12" fill="#11161d" stroke="#30363d"/>
+<circle cx="48" cy="48" r="6" fill="#ffffff"/>
+<circle cx="68" cy="48" r="6" fill="#777777"/>
+<circle cx="88" cy="48" r="6" fill="#444444"/>
+<text x="44" y="92" fill="#8b949e" font-family="monospace" font-size="17">$ manas --debug</text>
+<text x="44" y="137" fill="#ffffff" font-family="monospace" font-size="20">ME: "I'll fix one bug."</text>
+<text x="44" y="176" fill="#8b949e" font-family="monospace" font-size="18">5 minutes later...</text>
+<text x="44" y="222" fill="#ffffff" font-family="monospace" font-size="19">bugs: 1 → 7</text>
+<text x="44" y="258" fill="#ffffff" font-family="monospace" font-size="19">sleep: 100% → 0%</text>
+<text x="44" y="294" fill="#8b949e" font-family="monospace" font-size="17">status: still compiling...</text>
+<text x="44" y="322" fill="#ffffff" font-family="monospace" font-size="15">[press Ctrl+C to regain sanity]</text>
+</svg>
