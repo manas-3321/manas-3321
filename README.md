@@ -126,12 +126,13 @@ Small projects, experiments and college work while learning.
 
 ## 04 / GITHUB
 
-<img src="https://github-readme-stats.vercel.app/api?username=manas-3321&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&cache_seconds=86400" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-3321&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-3321&bg_color=00000000&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<p><b>Contribution graph</b></p>
+
+<p>See the native contribution graph below this profile.</p>
 
 </div>
 
