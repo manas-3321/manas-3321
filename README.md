@@ -1,140 +1,159 @@
 <div align="center">
 
-# `MANAS`
+<img src="YOUR_BANNER_URL_HERE" width="100%">
 
-### `not a 10x developer. just dangerously curious.`
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:161616&height=140&section=header&text=MANAS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+# MANAS
 
-</div>
+### `CSE • DATA SCIENCE • DEVELOPER`
 
----
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    SYSTEM PROFILE                       │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  USER        : manas-3321                                │
-│  CLASS       : CSE / Data Science                        │
-│  LOCATION    : India                                     │
-│  STATUS      : building                                  │
-│                                                          │
-│  CURRENTLY   : learning DSA + building things            │
-│  WEAPON      : C++                                       │
-│  SECONDARY   : JavaScript / Python                       │
-│  WEAKNESS    : "one more feature"                        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-## `01 // ABOUT`
-
-I like taking an idea that exists only in my head
-and turning it into something that actually runs.
-
-Currently somewhere between:
-
-`student` → `developer` → `professional debugger`
-
-I build, break, fix, repeat.
-
----
-
-## `02 // ARSENAL`
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=white)
+*building things between classes and questionable amounts of caffeine.*
 
 </div>
 
 ---
 
-## `03 // MISSIONS`
+## `ABOUT ME`
 
-### `◈ PARKEASE`
+<table>
+<tr>
+<td width="65%">
 
-> Turn unused parking spaces into a marketplace.
+Hey, I'm **Manas**.
 
-**Stack:** Web Development · Maps · Backend
+I'm a CSE Data Science student who likes building
+things, experimenting with technology and occasionally
+breaking perfectly functional code.
 
----
+Currently exploring:
 
-### `◈ SNAPDOSE`
+- Data Structures & Algorithms
+- Web Development
+- AI / Machine Learning
+- Software Development
 
-> Take a prescription → extract medicines → never miss a dose.
+My current objective is pretty simple:
 
-**Stack:** React Native · Expo · Vision AI
+**learn → build → break → understand → repeat**
 
----
+</td>
 
-### `◈ MORE LOADING...`
+<td width="35%" align="center">
 
-```text
-████████████████████░░░░  82%
+<img src="YOUR_ANIME_GIF_OR_IMAGE" width="220">
 
-something questionable is being built...
-```
-
----
-
-## `04 // CURRENT QUEST`
-
-```text
-[██████████████████░░] DSA
-[██████████████░░░░░░] React
-[███████████░░░░░░░░] Backend
-[████████░░░░░░░░░░░] AI / ML
-```
-
-### Objective
-
-```text
-→ become genuinely good at building software
-→ solve problems without googling every 5 minutes
-→ ship more things
-→ understand what I'm actually doing
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## `05 // PHILOSOPHY`
+## `TECHNOLOGIES`
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   BUILD IT.                                  │
-│   BREAK IT.                                  │
-│   UNDERSTAND WHY.                            │
-│   FIX IT.                                    │
-│   BUILD IT BETTER.                           │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+
+### DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
+---
+
+## `PROJECTS`
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🅿️ ParkEase
+
+A smart parking marketplace connecting
+parking-space owners with people looking
+for parking.
+
+**Stack:** Web • Maps • Backend
+
+</td>
+
+<td width="50%">
+
+### 💊 SnapDose
+
+A medication reminder concept that uses
+prescription image recognition to extract
+medicine information.
+
+**Stack:** React Native • Expo • Vision AI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 ABtalks
+
+A frontend redesign / web development
+project focused on recreating a modern
+content platform experience.
+
+</td>
+
+<td width="50%">
+
+### 🧪 Experiments
+
+Small projects, experiments and things
+built while learning.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `GITHUB STATS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manas-3321&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-3321&hide_border=true&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="170">
+
+</div>
+
+---
+
+## `CONTRIBUTIONS`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-3321&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
+
+</div>
 
 ---
 
 <div align="center">
 
-### `// END OF TRANSMISSION`
+### `BUILD SOMETHING WORTH REMEMBERING.`
 
-```text
-[ MANAS.EXE ]
-status: ONLINE
-```
+<br>
 
-<a href="https://github.com/manas-3321">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-`© 2026 manas-3321`
+[ GITHUB ](https://github.com/manas-3321)
 
 </div>
