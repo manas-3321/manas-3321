@@ -1,150 +1,132 @@
-# ☾ MANAS KUMAR — SHADOW MONARCH
+<!-- Save as README.md in the repo manas-3321/manas-3321. Replace YOUR_INSTAGRAM and YOUR_EMAIL below. -->
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=THE%20SHADOW%20MONARCH&fontSize=42&fontColor=C4B5FD&color=0:020617,50:1E1B4B,100:581C87&stroke=8B5CF6&animation=fadeIn&fontAlignY=42&desc=ARISE%20%E2%80%94%20YOUR%20NEXT%20LEVEL%20AWAITS&descSize=14&descAlignY=62"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Initializing+Hunter+System...;Developer+by+choice.;Otaku+by+heart.;Building+my+own+legacy.;ARISE."/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0014,50:5b21b6,100:8b5cf6&height=230&section=header&text=MANAS%20KUMAR&fontSize=58&fontColor=e0d4ff&fontAlignY=38&animation=fadeIn&desc=%E3%80%8E%20The%20Shadow%20Monarch%20of%20Code%20%E3%80%8F&descSize=20&descAlignY=60&descColor=b388ff" width="100%" alt="header"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manas-3321&style=for-the-badge&color=6D28D9&label=PROFILE+VISITORS"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=B388FF&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Player+detected...;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve;CSE+Data+Science+%7C+Hunter+in+Training;I+alone+level+up.+%E2%9A%94%EF%B8%8F" alt="typing"/>
+
+<br/>
+
+![Rank](https://img.shields.io/badge/RANK-E%20→%20S-8b5cf6?style=for-the-badge&labelColor=0b0014)
+![Class](https://img.shields.io/badge/CLASS-Data%20Science%20Hunter-b388ff?style=for-the-badge&labelColor=0b0014)
+![Status](https://img.shields.io/badge/STATUS-Leveling%20Up-5b21b6?style=for-the-badge&labelColor=0b0014)
+
+</div>
 
 ---
 
-<h2 align="center">⚔️ HUNTER PROFILE</h2>
+## 🟣 `[ STATUS WINDOW ]`
 
-```yaml
-NAME: Manas Kumar
-ALIAS: manas-3321
-CLASS: CSE - Data Science
-RANK: Developer in Progress
-
-INTERESTS:
-  - Software Development
-  - Data Structures & Algorithms
-  - Cybersecurity
-  - Artificial Intelligence
-  - Creative Technology
-
-CURRENT ARC: The Developer Arc
-MAIN QUEST: Build things that matter
-PASSIVE SKILL: Turning caffeine into code
+```text
+╔══════════════════════════════════════════════╗
+║                [ PLAYER INFO ]               ║
+╠══════════════════════════════════════════════╣
+║  NAME      : Manas Kumar  (aka Pratik)       ║
+║  AGE       : 20                              ║
+║  LOCATION  : Ghaziabad, Uttar Pradesh, IN    ║
+║  JOB       : CSE Data Science Student        ║
+║  TITLE     : Wolf Who Codes Alone            ║
+║  SIDE QUEST: Video Editing on Instagram      ║
+╠══════════════════════════════════════════════╣
+║  STR  ▰▰▰▰▰▰▰▱▱▱   Problem Solving           ║
+║  INT  ▰▰▰▰▰▰▰▰▱▱   Coding & Logic            ║
+║  AGI  ▰▰▰▰▰▰▱▱▱▱   Learning Speed            ║
+║  SNS  ▰▰▰▰▰▰▰▰▱▱   Creative Vision           ║
+╠══════════════════════════════════════════════╣
+║  PHILOSOPHY: Learn → Build → Break → Improve ║
+╚══════════════════════════════════════════════╝
 ```
 
-<p align="center">
-  <i>"I don't want to become the strongest. I want to become better than yesterday."</i>
-</p>
+---
+
+## ⚔️ `[ ACTIVE QUESTS ]`
+
+| Quest | Description | Difficulty |
+|:------|:------------|:----------:|
+| 🅿️ **ParkEase** | Peer-to-peer smart parking marketplace connecting space owners with drivers | ★★★★☆ |
+| 💊 **SnapDose** | AI medication reminder that extracts medicine details from prescription images | ★★★★☆ |
+| 🛡️ **ShieldFi** | Public Wi-Fi security audit tool: evil twin / spoof detection with a live dashboard | ★★★★☆ |
+| 🤖 **ULTRON** | Desktop AI assistant with a cinematic holographic HUD interface | ★★★★★ |
+| 🌍 **LandStack** | GIS-based land information system using unique parcel identification | ★★★☆☆ |
+| 🔐 **Security Lab** | Enterprise security monitoring: incident detection, investigation and response | ★★★★☆ |
+| 📝 **Notes App API** | Node + Express CRUD notes API with timestamps (FSD mini project) | ★★☆☆☆ |
+| 📺 **ABtalks Redesign** | Hackathon project, [view repo](https://github.com/manas-3321/ABtalks-redesign) | ★★★☆☆ |
+
+> *"The System has chosen me. Every bug is just another dungeon."*
 
 ---
 
-<h2 align="center">🟣 THE SYSTEM — TECH ARSENAL</h2>
+## 🗡️ `[ SKILL TREE ]`
 
-<p align="center"><b>LANGUAGES</b></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css"/>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,html,css,git,github,vscode,linux&theme=dark" alt="skills"/>
 
-<p align="center"><b>TOOLS & ENVIRONMENT</b></p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
+![C++](https://img.shields.io/badge/C++-Lv.Up-8b5cf6?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0b0014)
+![JavaScript](https://img.shields.io/badge/JavaScript-Lv.Up-8b5cf6?style=flat-square&logo=javascript&logoColor=white&labelColor=0b0014)
+![Node.js](https://img.shields.io/badge/Node.js-Lv.Up-8b5cf6?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0b0014)
+![DSA](https://img.shields.io/badge/DSA-Grinding-b388ff?style=flat-square&labelColor=0b0014)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Exploring-5b21b6?style=flat-square&labelColor=0b0014)
+![AI](https://img.shields.io/badge/AI-Exploring-b388ff?style=flat-square&labelColor=0b0014)
+![Video Editing](https://img.shields.io/badge/Video%20Editing-Side%20Quest-b388ff?style=flat-square&labelColor=0b0014)
 
----
-
-<h2 align="center">🗡️ ACTIVE QUESTS — PROJECTS</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🅿️ ParkEase
-
-A peer-to-peer smart parking marketplace that connects parking space owners with people looking for parking.
-
-**Focus:** Web Development · Innovation
-
-</td>
-<td width="50%" valign="top">
-
-### 💊 SnapDose
-
-An AI-powered medication reminder application that extracts medicine details from prescription images.
-
-**Focus:** AI · Mobile Development
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 LandStack
-
-A GIS-based land information management concept using unique land parcel identification.
-
-**Focus:** GIS · Data Systems
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Security Lab
-
-An enterprise security monitoring project focused on incident detection, investigation and response.
-
-**Focus:** Cybersecurity · Networking
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<h2 align="center">📜 HUNTER RECORD — GITHUB STATS</h2>
+## 📊 `[ HUNTER STATS ]`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manas-3321&show_icons=true&hide_border=true&bg_color=08051A&title_color=A78BFA&icon_color=8B5CF6&text_color=DDD6FE&rank_icon=github" height="175"/>
-  <img src="https://streak-stats.demolab.com?user=manas-3321&theme=tokyonight&hide_border=true&background=08051A&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD" height="175"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-3321&layout=compact&hide_border=true&bg_color=08051A&title_color=A78BFA&text_color=DDD6FE"/>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manas-3321&show_icons=true&hide_border=true&bg_color=0b0014&title_color=b388ff&icon_color=8b5cf6&text_color=e0d4ff&ring_color=8b5cf6&text_bold=false&title_color=b388ff" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-3321&layout=compact&hide_border=true&bg_color=0b0014&title_color=b388ff&text_color=e0d4ff" alt="languages"/>
 
----
+<img src="https://streak-stats.demolab.com?user=manas-3321&background=0b0014&ring=8b5cf6&fire=b388ff&currStreakLabel=b388ff&sideLabels=b388ff&currStreakNum=e0d4ff&sideNums=e0d4ff&dates=9d8bbf&stroke=5b21b6&border=5b21b6&hide_border=false" alt="streak"/>
 
-<h2 align="center">🌌 THE SHADOW ARMY — CONTRIBUTIONS</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-3321&bg_color=08051a&color=c4b5fd&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
+</div>
 
 ---
 
-<h2 align="center">🌑 BEYOND THE GATE</h2>
+## 📈 `[ DUNGEON CLEAR LOG ]`
 
-<p align="center">
-  <a href="https://github.com/manas-3321">
-    <img src="https://img.shields.io/badge/GITHUB-08051A?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LINKEDIN-08051A?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:312E81,100:6D28D9&height=150&section=footer"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-3321&bg_color=0b0014&color=b388ff&line=8b5cf6&point=e0d4ff&area=true&area_color=8b5cf6&hide_border=true&title_color=b388ff" alt="activity graph" width="100%"/>
 
-<h2 align="center">「 ARISE. 」</h2>
+</div>
 
-<p align="center">
-  <i>Even the strongest shadows were once alone.</i>
-</p>
+---
 
-<p align="center">
-  <sub>END OF TRANSMISSION // SHADOW MONARCH SYSTEM</sub>
-</p>
+## 🏆 `[ ACHIEVEMENTS ]`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manas-3321&theme=dracula&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="trophies"/>
+
+</div>
+
+---
+
+## 📡 `[ CONTACT GATE ]`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-manas--3321-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0014)](https://github.com/manas-3321)
+[![Instagram](https://img.shields.io/badge/Instagram-Shadow%20Edits-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0014)](https://instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-b388ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0014)](https://www.linkedin.com/in/manas-kumar-028a05359/)
+[![Email](https://img.shields.io/badge/Email-Summon%20Me-5b21b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0014)](mailto:YOUR_EMAIL)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=manas-3321&label=Visitors&color=8b5cf6&style=for-the-badge" alt="views"/>
+
+<br/><br/>
+
+### 🌑 *"ARISE."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:5b21b6,100:0b0014&height=140&section=footer" width="100%" alt="footer"/>
+
+</div>
