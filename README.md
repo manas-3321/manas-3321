@@ -5,7 +5,6 @@
 
 <img src="https://i.pinimg.com/originals/a0/0b/c8/a00bc80a653cb2e646274b76a6663ce9.gif" width="100%" alt="Solo Leveling Violet Banner">
 
-## *"ARISE."*
 **I'm Manas Kumar** 
 
  CSE DS Student | Cybersecurity Enthusiast | Video Editor
