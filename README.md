@@ -23,10 +23,7 @@
 ║                [ PLAYER INFO ]               ║
 ╠══════════════════════════════════════════════╣
 ║  NAME      : Manas Kumar  (aka Pratik)       ║
-║  AGE       : 20                              ║
-║  LOCATION  : Ghaziabad, Uttar Pradesh, IN    ║
 ║  JOB       : CSE Data Science Student        ║
-║  TITLE     : Wolf Who Codes Alone            ║
 ║  SIDE QUEST: Video Editing on Instagram      ║
 ╠══════════════════════════════════════════════╣
 ║  STR  ▰▰▰▰▰▰▰▱▱▱   Problem Solving           ║
