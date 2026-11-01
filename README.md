@@ -1,110 +1,133 @@
-# ☾ STEALTHDAZE — THE SHADOW MONARCH
+# ☾ MANAS KUMAR — SHADOW MONARCH
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=SHADOW%20MONARCH&fontSize=55&fontColor=C4B5FD&color=0:020617,50:1E1B4B,100:581C87&stroke=8B5CF6&animation=fadeIn&fontAlignY=45&desc=ARISE%20%7C%20THE%20SYSTEM%20HAS%20CHOSEN%20ME&descSize=14&descAlignY=65"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=THE%20SHADOW%20MONARCH&fontSize=42&fontColor=C4B5FD&color=0:020617,50:1E1B4B,100:581C87&stroke=8B5CF6&animation=fadeIn&fontAlignY=42&desc=ARISE%20%E2%80%94%20YOUR%20NEXT%20LEVEL%20AWAITS&descSize=14&descAlignY=62"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=I+am+the+Shadow+Monarch.;Initializing+Developer+System...;Turning+ideas+into+reality.;Leveling+up+one+commit+at+a+time."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Initializing+Hunter+System...;Developer+by+choice.;Otaku+by+heart.;Building+my+own+legacy.;ARISE."/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stealthdaze&style=for-the-badge&color=6D28D9&label=SOULS+COLLECTED"/>
+  <img src="https://komarev.com/ghpvc/?username=manas-3321&style=for-the-badge&color=6D28D9&label=PROFILE+VISITORS"/>
 </p>
 
 ---
 
-### ⚔️ HUNTER STATUS
+<h2 align="center">⚔️ HUNTER PROFILE</h2>
 
 ```yaml
 NAME: Manas Kumar
-GITHUB: stealthdaze
+ALIAS: manas-3321
 CLASS: CSE - Data Science
-TITLE: Developer in Progress
+RANK: Developer in Progress
 
-CURRENT LEVEL: Learning & Building
-SPECIALIZATION:
+INTERESTS:
   - Software Development
   - Data Structures & Algorithms
   - Cybersecurity
-  - Creative Problem Solving
+  - Artificial Intelligence
+  - Creative Technology
 
-ACTIVE QUEST: Become an exceptional engineer
+CURRENT ARC: The Developer Arc
+MAIN QUEST: Build things that matter
 PASSIVE SKILL: Turning caffeine into code
 ```
 
-### 👁️ THE SYSTEM — TECH ARSENAL
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,python,git,github,vscode,linux&theme=dark"/>
+  <i>"I don't want to become the strongest. I want to become better than yesterday."</i>
 </p>
 
-### 🗡️ ACTIVE QUESTS — PROJECTS
+---
+
+<h2 align="center">🟣 THE SYSTEM — TECH ARSENAL</h2>
+
+<p align="center"><b>LANGUAGES</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css"/>
+</p>
+
+<p align="center"><b>TOOLS & ENVIRONMENT</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
+
+---
+
+<h2 align="center">🗡️ ACTIVE QUESTS — PROJECTS</h2>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**01. PARKEASE**
+### 🅿️ ParkEase
 
-A smart peer-to-peer parking marketplace.
+A peer-to-peer smart parking marketplace that connects parking space owners with people looking for parking.
 
-`Innovation` `Web Development`
+**Focus:** Web Development · Innovation
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**02. SNAPDOSE**
+### 💊 SnapDose
 
-AI-powered prescription scanning and medicine reminders.
+An AI-powered medication reminder application that extracts medicine details from prescription images.
 
-`AI` `React Native`
+**Focus:** AI · Mobile Development
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**03. LANDSTACK**
+### 🌍 LandStack
 
-GIS-based land information management.
+A GIS-based land information management concept using unique land parcel identification.
 
-`GIS` `Data Systems`
+**Focus:** GIS · Data Systems
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**04. SECURITY LAB**
+### 🛡️ Security Lab
 
-Enterprise security monitoring and incident analysis.
+An enterprise security monitoring project focused on incident detection, investigation and response.
 
-`Cybersecurity` `Networking`
+**Focus:** Cybersecurity · Networking
 
 </td>
 </tr>
 </table>
 
-### 📜 HUNTER RECORD — GITHUB STATS
+---
+
+<h2 align="center">📜 HUNTER RECORD — GITHUB STATS</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=stealthdaze&show_icons=true&hide_border=true&bg_color=08051A&title_color=A78BFA&icon_color=8B5CF6&text_color=DDD6FE"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=stealthdaze&hide_border=true&background=08051A&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B8BAA"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manas-3321&show_icons=true&hide_border=true&bg_color=08051A&title_color=A78BFA&icon_color=8B5CF6&text_color=DDD6FE&rank_icon=github" height="175"/>
+  <img src="https://streak-stats.demolab.com?user=manas-3321&theme=tokyonight&hide_border=true&background=08051A&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD" height="175"/>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stealthdaze&layout=compact&hide_border=true&bg_color=08051A&title_color=A78BFA&text_color=DDD6FE"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-3321&layout=compact&hide_border=true&bg_color=08051A&title_color=A78BFA&text_color=DDD6FE"/>
 </p>
 
-### 🐉 SHADOW ARMY — CONTRIBUTION MAP
+---
+
+<h2 align="center">🌌 THE SHADOW ARMY — CONTRIBUTIONS</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stealthdaze/stealthdaze/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-3321&bg_color=08051a&color=c4b5fd&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
-### 🌑 BEYOND THE GATE
+---
+
+<h2 align="center">🌑 BEYOND THE GATE</h2>
 
 <p align="center">
-  <a href="https://github.com/stealthdaze">
+  <a href="https://github.com/manas-3321">
     <img src="https://img.shields.io/badge/GITHUB-08051A?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
   </a>
   <a href="https://www.linkedin.com/">
@@ -113,9 +136,15 @@ Enterprise security monitoring and incident analysis.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:312E81,100:6D28D9&height=130&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:312E81,100:6D28D9&height=150&section=footer"/>
 </p>
 
-<h3 align="center">「 ARISE. 」</h3>
+<h2 align="center">「 ARISE. 」</h2>
 
-<p align="center"><i>Even the strongest shadows were once alone.</i></p>
+<p align="center">
+  <i>Even the strongest shadows were once alone.</i>
+</p>
+
+<p align="center">
+  <sub>END OF TRANSMISSION // SHADOW MONARCH SYSTEM</sub>
+</p>
