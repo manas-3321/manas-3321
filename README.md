@@ -8,7 +8,7 @@
 ## *"ARISE."*
 **I'm Manas Kumar** 
 
-First-Year CSE Student | Full-Stack Developer | Content Creator
+ CSE DS Student | Cybersecurity Enthusiast | Video Editor
 
 ---
 
