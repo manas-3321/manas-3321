@@ -1,160 +1,88 @@
-<div align="center">
+# ⚡ Hey, I'm Manas Kumar
 
+### `CSE-DS Student` • `Developer in Progress` • `Creative Thinker`
 
-### CSE • DATA SCIENCE • BUILDER
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:151515,100:000000&height=180&section=header&text=MANAS&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN&descAlignY=62&descSize=16"/>
-
-> **building things between classes and questionable amounts of caffeine.**
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality.;Building+things+that+actually+matter.;Code.+Create.+Experiment.+Repeat." />
 
 ---
 
-<div align="center">
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 01 / ABOUT
+### 🧬 SYSTEM PROFILE
 
-</div>
+- 🎓 Pursuing B.Tech in **Computer Science (Data Science)**
+- 💻 Interested in Software Development & Cybersecurity
+- 🚀 Building projects, breaking things, learning how they work
+- 🧠 Currently exploring Full Stack Development, DSA & Security
+- 🎨 Into creative editing, design and digital experimentation
+- ⚡ Motto: *Think different. Build different.*
 
-<table>
-<tr>
-<td width="64%" valign="top">
-
-Hey, I'm **Manas** — a CSE Data Science student who likes turning ideas into working software.
-
-Currently deep in:
-
-- **DSA & C++**
-- **Web Development**
-- **AI / Machine Learning**
-- **Software Projects**
-
-My usual workflow:
-
-`idea → build → break → debug → understand → repeat`
-
-I'm less interested in looking like a developer and more interested in actually becoming one.
-
-</td>
-<td width="36%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="300" alt="It's done anime GIF"/>
-
-<br><br>
-
-`status: ONLINE`
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-<div align="center">
+### 🛠️ TECH ARSENAL
 
-## 02 / TECH STACK
+**Languages & Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,github&perline=5" />
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,python" />
+</p>
 
-<br><br>
+**Tools & Platforms**
 
-`HTML` `CSS` `JAVASCRIPT` `C++` `GITHUB`
-
-</div>
-
----
-
-<div align="center">
-
-## 03 / PROJECTS
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ParkEase
-
-**Smart parking marketplace**
-
-Connecting unused private parking spaces with people who need them.
-
-`WEB` `MAPS` `BACKEND`
-
-</td>
-<td width="50%" valign="top">
-
-### SnapDose
-
-**Prescription → reminder**
-
-A medication reminder concept using prescription image recognition.
-
-`REACT NATIVE` `EXPO` `VISION AI`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ABtalks
-
-**Frontend redesign**
-
-A modern web redesign / frontend experiment.
-
-`HTML` `CSS` `JAVASCRIPT`
-
-</td>
-<td width="50%" valign="top">
-
-### Experiments
-
-**Random things I build**
-
-Small projects, experiments and college work while learning.
-
-`C++` `JS` `PYTHON`
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,npm" />
+</p>
 
 ---
 
-<div align="center">
+### 🚀 PROJECTS FROM THE LAB
 
-## 04 / GITHUB
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-3321&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
-
-<br>
-
-<p><b>Contribution graph</b></p>
-
-<p>See the native contribution graph below this profile.</p>
-
-</div>
+| Project | Description |
+|---|---|
+| 🅿️ **ParkEase** | A smart peer-to-peer parking marketplace |
+| 💊 **SnapDose** | AI-powered prescription scanning & medication reminders |
+| 🌍 **LandStack** | GIS-based land information management concept |
+| 🛡️ **Security Lab** | Exploring enterprise security monitoring and incident detection |
 
 ---
 
-<div align="center">
+### 📊 GITHUB STATISTICS
 
-### CURRENT MISSION
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-**learn hard. build harder.**
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br>
+---
 
-`NO HYPE • JUST CODE`
+### 🐍 CONTRIBUTION MATRIX
 
-<br><br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
-<a href="https://github.com/manas-3321">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+---
+
+### 🌐 CONNECT WITH ME
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-</div>
+---
+
+<p align="center">
+### 「 Stay curious. Stay dangerous. Keep building. 」
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+</p>
