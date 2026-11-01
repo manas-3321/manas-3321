@@ -61,13 +61,13 @@
 
 ### 🔗 ALLY NETWORK
 
-<a href="https://youtube.com/@pr4tik">
+<a href="https://www.youtube.com/@pr4tikverse">
   <img src="https://img.shields.io/badge/YouTube-05122A?style=for-the-badge&logo=youtube&logoColor=8A2BE2" alt="YouTube" />
 </a>
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/crashoutmanas_/">
   <img src="https://img.shields.io/badge/Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=8A2BE2" alt="Instagram Anime Edits" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:manas.mr.26@gmail.com">
   <img src="https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" />
 </a>
 
